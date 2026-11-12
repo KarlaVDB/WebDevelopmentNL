@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mijn Eerste Webpagina</title>
+</head>
+<body>
+
+  <h1>Jan Janssens</h1>
+  <p>Ik volg deze opleiding om de basis van web development en design onder de knie te krijgen. Mijn doel is om na deze reeks mijn eigen portfolio website te kunnen bouwen.</p>
+
+</body>
+</html>
